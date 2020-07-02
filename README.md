@@ -1,4 +1,4 @@
-# 宝塔环境
+# baota hk
 
 ***ander002/baota:baota***（dockerfile构建。较为轻便，且易于部署
 
